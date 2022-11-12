@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(242, 242, 242);
+  color: #383838;
+}
+
+.MainDiv{
+  display: flex;
+  justify-content: space-around;
+}
+
+.ButtonDiv {
+  margin-top: 100;
+}
+
+img{
+  border: solid 4px #383838;
+  border-radius: 8px;
+  background-color: rgb(234, 234, 234);
+  width: 360px
+}
+
+.MyProfile{
+  width : 680px;
+  margin: 60px;
+}
+
+p{
+  font-size: 24px;
+}
+
+small{
+  font-size: 20px;
+}
